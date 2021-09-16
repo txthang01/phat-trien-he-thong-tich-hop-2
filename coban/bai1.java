@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class bai1 {
    public static void main(String[] args){
     String chuoi;
-    char SoKyTu;
+    char SoKyTu;    
     System.out.println(" nhap chuỗi vào màn hình ");
     Scanner scanner = new Scanner(System.in);
     chuoi = scanner.nextLine();
